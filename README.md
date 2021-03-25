@@ -1,2 +1,2 @@
-# hyosun-park.github.io
+# hyosunpark.github.io
 Hyo Sun's personal website
